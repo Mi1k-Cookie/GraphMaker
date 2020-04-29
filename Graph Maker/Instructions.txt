@@ -1,0 +1,13 @@
+Download the python file as well as the requirements.txt file
+Ensure python 3 (3.7 was used) is installed
+Run the "pip install -r requirements.txt" command either in a virtual environment or with your base interpreter.
+Run GraphMaker like so:
+python GraphMaker.py -l <limit> or -f <input file>
+
+Optional Arguments
+-x <xlabel> 
+-y <ylabel> 
+-b <line colour['r', 'b', 'g']>
+-t <title>
+
+Made by: Mi1k 
