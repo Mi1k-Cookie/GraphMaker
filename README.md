@@ -1,0 +1,2 @@
+# GraphMaker
+This is not only my first github project, but also my first proper python program. It is meant to be run from the command line and can generate scatter plot graphs by allowing the user to either input the data values or have them read from a text file [Alternating Lines for x and y]. The program also allows the user to dictate the graph's title, x  and y axises as well as include a line of best fit if needed. I aim on making this my own go-to Graph Creation program. I also intend to convert it to an EXE for greater portability.
